@@ -1,0 +1,12 @@
+{
+  "name": "bfhl-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "vercel-build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
